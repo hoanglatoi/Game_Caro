@@ -1,0 +1,10 @@
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\bin\Debug\Gamcaro.exe.config
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\bin\Debug\Gamcaro.exe
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\bin\Debug\Gamcaro.pdb
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.csprojAssemblyReference.cache
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.Form1.resources
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.Properties.Resources.resources
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.csproj.GenerateResource.cache
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.csproj.CoreCompileInputs.cache
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.exe
+C:\Users\Hai OC\source\repos\Gamcaro\Gamcaro\obj\Debug\Gamcaro.pdb
